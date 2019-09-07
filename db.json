@@ -6,6 +6,7 @@
     {"id": 3, "ClienteId": 13, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"}
     ],
   "generateToken":[
-    {"id":0 "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393"}
+    {"id":0, "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393"},
+    {"id":1, "Token": "1d40d305-c836-43a2-b4db-acc554787845"}    
     ]
 }
