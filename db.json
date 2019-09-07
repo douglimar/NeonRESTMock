@@ -6,7 +6,7 @@
     {"id": 3, "ClienteId": 13, "Valor": 24,"Token": "1d40d305-c836-43a2-b4db-acc56bcc1393", "Data": "2016-08-02T14:25:37.55"}
     ],
     "generateToken":[
-    {"token:"1d40d305-c836-43a2-b4db-acc56bcc1393}     
+    {"token": "1d40d305-c836-43a2-b4db-acc56bcc1393"}
     ],    
   "profile": {
     "name": "douglimar"
